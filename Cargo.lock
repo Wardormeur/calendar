@@ -25,7 +25,6 @@ version = "0.1.0"
 dependencies = [
  "chrono 0.4.6 (registry+https://github.com/rust-lang/crates.io-index)",
  "ical 0.4.0 (registry+https://github.com/rust-lang/crates.io-index)",
- "time 0.1.40 (registry+https://github.com/rust-lang/crates.io-index)",
  "vobject 0.6.0 (git+https://github.com/untitaker/rust-vobject.git)",
 ]
 

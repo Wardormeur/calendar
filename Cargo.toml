@@ -6,5 +6,4 @@ authors = ["Wardormeur <wardormeur@gmail.com>"]
 [dependencies]
 ical = "0.4.*"
 vobject = { git = "https://github.com/untitaker/rust-vobject.git", branch = "master" } 
-time = "0.1.25"
 chrono = "0.4"
